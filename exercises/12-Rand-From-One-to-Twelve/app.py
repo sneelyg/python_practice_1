@@ -2,6 +2,26 @@ import random
 
 def get_randomInt():
 	# Your code here
-	return None
+	return random.randrange(1,13)
 
 print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+print(get_randomInt())
+
